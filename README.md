@@ -1,16 +1,17 @@
-## Hi there 👋
+# Wander Ivo
 
-<!--
-**WanderIvo/WanderIvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
 
-Here are some ideas to get you started:
+Olá! Sou Wander, um desenvolvedor front-end apaixonado por criar interfaces atraentes e funcionais. Atualmente, estou aprofundando meus conhecimentos na Proz e trabalhando com tecnologias modernas para oferecer soluções web de alta qualidade.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objetivo
+
+Estou sempre em busca de oportunidades para aplicar e expandir minhas habilidades em front-end. Se você está interessado em discutir tecnologias ou tem alguma oportunidade interessante na área, estou à disposição para uma conversa.
+
+## Habilidades
+
+- **Desenvolvimento Web:** HTML5, CSS3
+- **Programação:** JavaScript, Python
+- **Design Responsivo:** Implementação de layouts adaptáveis e responsivos
+- **Ferramentas:** Git, Git Hub
+
